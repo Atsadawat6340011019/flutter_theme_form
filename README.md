@@ -1,5 +1,5 @@
-# theme
 
+Atsadawat Kontha 6340011019
 
 ## Hello Screen
 <img src='assets/images/hello_screen.PNG' width='200px' height='300px'>
